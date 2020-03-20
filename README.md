@@ -1,26 +1,14 @@
 # smartparks-pangolin-tracker-hardware
-<img src="https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/tree/master/04_OUTPUT_FILES/irnas_logo.png" height="100">
-
-Device is composed from 3 different PCBs thah are stacked in to box like shape.
-
-Stackup of PCBs is in this order:
-- GPS (Top PCB)					Size: 28mm x 20mm 
-- MCU (Side PCB)				Size: 28mm x 20mm (After final assembly)
-- LORA ANTENNA (Side PCB)		Size: 28mm x 15.5mm
-- BATTERY (Between side PCBs)
+<img src="https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/blob/master/04_OUTPUT_FILES/irnas_logo.png" height="100">
 
 PCB specifications:
-- 0.8mm PCB thinknes
+- 1.6mm PCB thinknes
 - 0.152mm (6mil) trace to trace and trace to polygon clearance
-- 0.75mm RF line thinknes
-
-Connections between PCBs:
-- MCU -> GPS - Solder pads on each PCB
-- MCU -> LORA antenna - Coaxial cable
+- 1mm RF line thinknes
 
 Assembled view
  
-<img src="https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/tree/master/04_OUTPUT_FILES/Pangolin_1.png" height="200">			<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_7.png" height="200">			
+<img src="https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/blob/master/04_OUTPUT_FILES/Pangolin_1.png" height="200">			<img src="https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/blob/master/04_OUTPUT_FILES/Pangolin_2.png" height="200">			
 
 Exploded view
 
@@ -44,7 +32,7 @@ All comments and suggestions can be added to the [Issues]() section of the repo.
 
 ## Licensing
 
-Rhino tracker hardware with documentation is licensed under [CERN OHL v.1.2. license](https://www.ohwr.org/licenses/cern-ohl/license_versions/v1.2).
+Pangolin tracker hardware with documentation is licensed under [CERN OHL v.1.2. license](https://www.ohwr.org/licenses/cern-ohl/license_versions/v1.2).
 
 What this means is that you can use this hardware and documentation without paying a royalty and knowing that you'll be able to use your version forever. You are also free to make changes but if you share these changes then you have to do so on the same conditions that you enjoy.
 
