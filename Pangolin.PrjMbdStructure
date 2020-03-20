@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=MAIN.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\..\..\SmartParks - Lion tracker\Electronics\TAG\TAG.PrjPCB
+Record=SubProject|SourceDocument=MAIN.MbsDoc|ProjectPath=..\..\..\SmartParks - Lion tracker\Electronics\TAG\TAG.PrjPCB
+Record=DiagramHierarchy|SourceDocument=MAIN.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\PangolinTracker.PrjPCB
+Record=SubProject|SourceDocument=MAIN.MbsDoc|ProjectPath=..\PangolinTracker.PrjPCB
