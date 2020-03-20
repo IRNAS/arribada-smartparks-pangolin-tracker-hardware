@@ -25,7 +25,7 @@ Potted view
   
 Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/blob/master/06_RELEASE/V0.1/Pangolin_V0.1_SCHEMATICS/Pangolin_V0.1_SCHEMATICS.PDF).Produced board versions can be found in the [release section](https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/releases) of the repository.
 
-**Latest release: [v0.1](https://github.com/IRNAS/smartparks-rhino-tracker-hardware)**
+**Latest release: [v0.1](https://github.com/IRNAS/smartparks-pangolin-tracker-hardware)**
 
 
 All comments and suggestions can be added to the [Issues](https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/issues) section of the repo.
