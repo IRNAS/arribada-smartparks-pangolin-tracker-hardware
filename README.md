@@ -8,7 +8,7 @@ PCB specifications:
 
 PCB view
  
-<center><img src="https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/blob/master/04_OUTPUT_FILES/Pangolin_1.png" height="200" align="center">					<img src="https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/blob/master/04_OUTPUT_FILES/Pangolin_2.png" height="200" align="center">		
+<center><img src="https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/blob/master/04_OUTPUT_FILES/Pangolin_1.png" height="200" align="center">					<img src="https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/blob/master/04_OUTPUT_FILES/Pangolin_2.png" height="200">		
 
 Potted view
 
