@@ -1,4 +1,4 @@
-# smartparks-lion-tracker-hardware
+# smartparks-pangolin-tracker-hardware
 <img src="https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/tree/master/04_OUTPUT_FILES/irnas_logo.png" height="100">
 
 Device is composed from 3 different PCBs thah are stacked in to box like shape.
@@ -23,8 +23,6 @@ Assembled view
 <img src="https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/tree/master/04_OUTPUT_FILES/Pangolin_1.png" height="200">			<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_7.png" height="200">			
 
 Exploded view
- 
-<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_8.png" height="200">			<img src="https://github.com/IRNAS/smartparks-rhino-tracker-hardware/blob/master/11_DOC/Rhino_V2_1_9.png" height="200">
 
 Future changes:
 - Mehanical Specification:
