@@ -1,5 +1,5 @@
 # smartparks-pangolin-tracker-hardware
-<img src="https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/blob/master/04_OUTPUT_FILES/irnas_logo.png" height="100">
+<img src="https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/blob/master/04_OUTPUT_FILES/irnas-logotip-rgb-02.png" height="100">
 
 PCB specifications:
 - 1.6mm PCB thinknes
@@ -7,12 +7,14 @@ PCB specifications:
 - 1mm RF line thinknes
 
 PCB view
- <p align="center">
+<p align="center">
 <img src="https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/blob/master/04_OUTPUT_FILES/Pangolin_1.png" height="300">			<img src="https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/blob/master/04_OUTPUT_FILES/Pangolin_2.png" height="300">		
 </p>
 Potted view
 
-Future changes:
+ - Future changes:
+	- 
+
 - Mehanical Specification:
 	- Device dimensions ??x??x??mm
 	- Device weight: ~??g
@@ -21,7 +23,7 @@ Future changes:
 	- Resin thinknes arount the device is 2mm	
  
   
-Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/blob/master/04_OUTPUT_FILES/Pangolin_V0.1_SCHEMATICS/Pangolin_V0.1_SCHEMATICS.PDF).Produced board versions can be found in the [release section](https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/releases) of the repository.
+Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/blob/master/06_RELEASE/V0.1/Pangolin_V0.1_SCHEMATICS/Pangolin_V0.1_SCHEMATICS.PDF).Produced board versions can be found in the [release section](https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/releases) of the repository.
 
 **Latest release: [v0.1](https://github.com/IRNAS/smartparks-rhino-tracker-hardware)**
 
