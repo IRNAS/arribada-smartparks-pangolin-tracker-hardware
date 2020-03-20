@@ -1,1 +1,0 @@
-# smartparks-pangolin-tracker-hardware
