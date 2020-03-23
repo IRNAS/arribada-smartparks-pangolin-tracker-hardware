@@ -1,4 +1,4 @@
-# smartparks-pangolin-tracker-hardware
+# arribada-smartparks-pangolin-tracker-hardware
 <img src="https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/blob/master/04_OUTPUT_FILES/irnas-logotip-rgb-02.png" height="100">
 
 PCB specifications:
