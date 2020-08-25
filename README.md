@@ -1,5 +1,5 @@
 # Arribada Initiative Smart Parks Pangolin Tracker Hardware
-<img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/irnas-logo-1.png" height="100"> <img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/arribada-initative-logo-1.png" height="100" align="right"> <img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/smartparks-logo-1.png" height="150" align="right">
+<img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/irnas-logo.png" height="100"> <img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/arribada-initative-logo.png" height="100" align="right"> <img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/smartparks-logo.png" height="150" align="right">
 
 <br>
 
