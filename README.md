@@ -1,5 +1,5 @@
 # Arribada Initiative Smart Parks Pangolin Tracker Hardware
-<img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/irnas-logo-1.png" height="100"> <img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/smartparks-logo-1.png" height="150" align="right">
+<img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/irnas-logo-1.png" height="100"> <img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/arribada-initative-logo-1.png" height="100" align="right"> <img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/smartparks-logo-1.png" height="150" align="right">
 
 <br>
 
@@ -10,7 +10,7 @@ PCB view:
 
 Potted view:
 <p align="center">
-<img src="https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/blob/master/04_OUTPUT_FILES/Pangolin_potted_1.JPG" height="300">
+<img src="https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/blob/master/04_OUTPUT_FILES/Pangolin_potted_1.jpg" height="300">
 </p>
 
 - PCB specifications:
