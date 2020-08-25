@@ -1,28 +1,33 @@
-# arribada-smartparks-pangolin-tracker-hardware
-<img src="https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/blob/master/04_OUTPUT_FILES/irnas-logotip-rgb-02.png" height="100">
+# Arribada Initiative Smart Parks Pangolin Tracker Hardware
+<img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/irnas-logo-1.png" height="100"> <img src="https://github.com/IRNAS/smartparks-lion-tracker-mechanics/blob/master/logo/smartparks-logo-1.png" height="150" align="right">
 
-PCB specifications:
-- 1.6mm PCB thinknes
-- 0.152mm (6mil) trace to trace and trace to polygon clearance
-- 1mm RF line thinknes
+<br>
 
-PCB view
+PCB view:
 <p align="center">
 <img src="https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/blob/master/04_OUTPUT_FILES/Pangolin_1.png" height="300">			<img src="https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/blob/master/04_OUTPUT_FILES/Pangolin_2.png" height="300">		
 </p>
-Potted view
 
- - Future changes:
-	- 
+Potted view:
+<p align="center">
+<img src="https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/blob/master/04_OUTPUT_FILES/Pangolin_potted_1.JPG" height="300">
+</p>
 
-- Mehanical Specification:
-	- Device dimensions ??x??x??mm
-	- Device weight: ~??g
-	- Device is put in polyurethane resin to protect it (https://si.farnell.com/electrolube/ur5640rp250g/resin-pur-packet-250g-transparent/dp/2786027)
+- PCB specifications:
+	- 1.6mm PCB thinknes
+	- 0.152mm (6mil) trace to trace and trace to polygon clearance
+	- 1mm RF line thinknes
+
+- Mehanical specifications:
+	- Device dimensions 78x48x18mm (with cattle tag) / 58x48x18mm (without cattle tag)
+	- Device weight: ~50g
+	- Device is put in polyurethane resin to protect it (https://electrolube.com/product/ur5528-chemically-resistant-polyurethane-resin/)
 	- Inside of the device is EMC shield around MCU and RF components to protect them from resin
 	- Resin thinknes arount the device is 2mm	
- 
-  
+
+ - Future changes:
+	- TBD
+
 Currently under development, for all information see the [schematic PDF file](https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/blob/master/06_RELEASE/V0.1/Pangolin_V0.1_SCHEMATICS/Pangolin_V0.1_SCHEMATICS.PDF).Produced board versions can be found in the [release section](https://github.com/IRNAS/smartparks-pangolin-tracker-hardware/releases) of the repository.
 
 **Latest release: [v0.1](https://github.com/IRNAS/smartparks-pangolin-tracker-hardware)**
